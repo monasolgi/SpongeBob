@@ -119,4 +119,7 @@ This project helped me practice and understand several important machine learnin
 * Gradient Boosting / XGBoost
 * Better handling of categorical features
 
+<img width="856" height="590" alt="image" src="https://github.com/user-attachments/assets/d5bf35b0-6ba9-4221-8c6b-877f5d2f0545" />
+
+
 <img width="1486" height="894" alt="image" src="https://github.com/user-attachments/assets/8f139590-9aff-4c9c-8f9e-df81c22a96dc" />
